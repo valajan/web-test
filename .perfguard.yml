@@ -1,0 +1,4 @@
+base_url: https://perf-web-test.netlify.app/
+ai_analysis: false
+budgets:
+  performance: 90
