@@ -1,4 +1,4 @@
-base_url: https://perf-web-test.netlify.app/
+base_url: https://perfguard-test.netlify.app/
 ai_analysis: true
 budgets:
   performance: 90
